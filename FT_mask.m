@@ -3,11 +3,11 @@ function [M] = FT_mask(pixel_edge,cycles)
 % index_x = randperm(pixel_edge)
 % index_y = randperm(pixel_edge)
 
-index_x = [1:pixel_edge];
-index_y = [1:pixel_edge];
-
-iy = 1;
-ix = 1;
+% index_x = [1:pixel_edge];
+% index_y = [1:pixel_edge];
+% 
+% iy = 1;
+% ix = 1;
 
 
 i = 1;
